@@ -1,0 +1,59 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+/*body {*/
+    /*padding-top: 10px;*/
+    /*padding-bottom: 50px;*/
+/*}*/
+
+/*@media screen and (max-width: 768px) {*/
+    /*body {*/
+        /*padding-top: 115px;*/
+    /*}*/
+/*}*/
+
+.responsive-image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    color: #000000;
+}
+
+.responsive-image-sub {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    color: #000000;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.responsive-image-sub-nav {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    color: #000000;
+    margin-bottom: 5px;
+}
+
+.service {
+    background-color: grey;
+}
+
+.address a {
+    color: black;
+    font-size: small;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ankers-header {
+    background-color: black;
+
+}
+
+
